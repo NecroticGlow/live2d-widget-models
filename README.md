@@ -2,7 +2,7 @@
 
 The storage of live2d models
 
-## Useage
+## Useage1
 
 ### Install all models
 ~~use `npm install live2d-widget-models`~~
